@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Anshika 👋
 
-<!--
-**anshikabindlish/anshikabindlish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at the University of Waterloo. 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Honours Computer Science (Co-op), University of Waterloo
+- 🔐 Interested in Cybersecurity, Softwares and AI Applications
+- 🚀 Building projects that solve real-world problems
+
+## Current Focus
+
+Working on projects that strengthen my software fundamentals while exploring cybersecurity and modern development tools.
+
+## Technologies
+
+Languages:
+Python • Java 
+
+Tools:
+Git • GitHub 
